@@ -1,0 +1,35 @@
+FILE: ITENS_PROVA_2020.csv
+  CO_POSICAO | SG_AREA | CO_ITEM | TX_GABARITO | CO_HABILIDADE | IN_ITEM_ABAN | TX_MOTIVO_ABAN | NU_PARAM_A | NU_PARAM_B | NU_PARAM_C | TX_COR | CO_PROVA
+  26 | LC | 7099 | D | 15 | 0 |  | 1.33337 | -0.37357 | 0.00658 | LARANJA - BRAILE | 623
+FILE: ITENS_PROVA_2021.csv
+  ERROR: 'utf-8' codec can't decode byte 0xe3 in position 1566: invalid continuation byte
+FILE: ITENS_PROVA_2022.csv
+  CO_POSICAO | SG_AREA | CO_ITEM | TX_GABARITO | CO_HABILIDADE | IN_ITEM_ABAN | TX_MOTIVO_ABAN | NU_PARAM_A | NU_PARAM_B | NU_PARAM_C | TX_COR | CO_PROVA
+  46 | CH | 140506 | D | 26 | 0 |  | 0.98121 | 1.34897 | 0.06218 | AZUL | 1055
+FILE: ITENS_PROVA_2023.csv
+  CO_POSICAO | SG_AREA | CO_ITEM | TX_GABARITO | CO_HABILIDADE | IN_ITEM_ABAN | TX_MOTIVO_ABAN | NU_PARAM_A | NU_PARAM_B | NU_PARAM_C | TX_COR | CO_PROVA
+  21 | LC | 141283 | B | 14 | 0 |  | 2.20125 | 0.82582 | 0.2119 | AMARELA | 1286
+FILE: ITENS_PROVA_2024.csv
+  ERROR: 'utf-8' codec can't decode byte 0xe3 in position 7306: invalid continuation byte
+FILE: ITENS_PROVA_2025.csv
+  CO_POSICAO | SG_AREA | CO_ITEM | TX_GABARITO | CO_HABILIDADE | IN_ITEM_ABAN | TX_MOTIVO_ABAN | NU_PARAM_A | NU_PARAM_B | NU_PARAM_C | TX_COR | CO_PROVA
+  2 | LC | 153930 | A | 6 | 0 |  | 2.28024 | 0.18554 | 0.19951 | BRANCA | 1462
+FILE: MICRODADOS_ENEM_2020.csv
+  ERROR: 'utf-8' codec can't decode byte 0xe9 in position 900: invalid continuation byte
+FILE: MICRODADOS_ENEM_2021.csv
+  ERROR: 'utf-8' codec can't decode byte 0xf3 in position 1278: invalid continuation byte
+FILE: MICRODADOS_ENEM_2022.csv
+  ERROR: 'utf-8' codec can't decode byte 0xed in position 900: invalid continuation byte
+FILE: MICRODADOS_ENEM_2023.csv
+  ERROR: 'utf-8' codec can't decode byte 0xed in position 901: invalid continuation byte
+FILE: PARTICIPANTES_2024.csv
+  ERROR: 'utf-8' codec can't decode byte 0xe3 in position 475: invalid continuation byte
+FILE: PARTICIPANTES_2025.csv
+  ERROR: 'utf-8' codec can't decode byte 0xe3 in position 582: invalid continuation byte
+FILE: QUEST_HAB_ESTUDO.csv
+  NU_INSCRICAO | TP_RESPOSTA | Q001 | Q002 | Q003 | Q004 | Q005 | Q006 | Q007 | Q008 | Q009 | Q010
+  210054478229 | 2 |  |  |  |  |  |  |  |  |  | 
+FILE: RESULTADOS_2024.csv
+  ERROR: 'utf-8' codec can't decode byte 0xe2 in position 1671: invalid continuation byte
+FILE: RESULTADOS_2025.csv
+  ERROR: 'utf-8' codec can't decode byte 0xe3 in position 1725: invalid continuation byte
